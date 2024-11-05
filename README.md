@@ -1,1 +1,1 @@
-# Comparaci-n-de-M-todos-Num-ricos-para-la-Soluci-n-de-ODEs
+# Comparación-de-M-todos-Num-ricos-para-la-Soluci-n-de-ODEs
