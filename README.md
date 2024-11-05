@@ -1,1 +1,1 @@
-# Comparación-de-M-todos-Num-ricos-para-la-Soluci-n-de-ODEs
+# Comparación-de-Métodos-Numéricos-para-la-Solucién-de-ODEs
